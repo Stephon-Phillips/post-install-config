@@ -57,6 +57,7 @@ Understanding the difference is important when navigating configuration options.
 ---
 
 ## Configuring Roles
+<img width="80%" height="80%" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/89b3ed6b-a36a-47de-b8df-129fed8d7d17" />
 
 Navigate to:  
 **Admin Panel → Agents → Roles**
@@ -69,6 +70,7 @@ Example:
 ---
 
 ## Configuring Departments
+<img width="80%" height="80%" alt="image" src="https://github.com/user-attachments/assets/a45c1875-a907-456f-9c2f-c41c00119c29" />
 
 Navigate to:  
 **Admin Panel → Agents → Departments**
@@ -81,6 +83,7 @@ Example Department:
 ---
 
 ## Configuring Teams
+<img width="80%" height="80%" alt="Screenshot (227)" src="https://github.com/user-attachments/assets/88c40f69-5a90-49c5-aa67-7693fd83c219" />
 
 Navigate to:  
 **Admin Panel → Agents → Teams**
@@ -92,6 +95,7 @@ Example Team:
 ---
 
 ## User Access Settings
+<img width="1920" height="1080" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/3a5cfea6-ff77-4050-920e-cc16eb8d3d63" />
 
 Navigate to:  
 **Admin Panel → Settings → User Settings**
@@ -105,6 +109,8 @@ These settings define how users are allowed to submit tickets.
 ---
 
 ## Adding Agents
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ae90f1f7-57c9-42f1-9253-f0b3df1515f1" />
+
 
 Navigate to:  
 **Admin Panel → Agents → Add New**
@@ -117,6 +123,7 @@ Example Agents:
 ---
 
 ## Adding End Users
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/730b5172-c7dd-45da-99f7-18634f171c11" />
 
 Navigate to:  
 **Agent Panel → Users → Add New**
@@ -129,6 +136,7 @@ Example Users:
 ---
 
 ## SLA Configuration
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a97446d5-0353-4e82-9327-68495437451a" />
 
 Navigate to:  
 **Admin Panel → Manage → SLA**
@@ -142,6 +150,8 @@ Example SLAs:
 ---
 
 ## Creating Help Topics
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8fcbf217-fc67-4d0b-8415-2f9bb0b9dd85" />
+
 
 Navigate to:  
 **Admin Panel → Manage → Help Topics**
