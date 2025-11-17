@@ -95,7 +95,7 @@ Example Team:
 ---
 
 ## User Access Settings
-<img width="1920" height="1080" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/3a5cfea6-ff77-4050-920e-cc16eb8d3d63" />
+<img width="80%" height="80%" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/3a5cfea6-ff77-4050-920e-cc16eb8d3d63" />
 
 Navigate to:  
 **Admin Panel → Settings → User Settings**
@@ -109,7 +109,7 @@ These settings define how users are allowed to submit tickets.
 ---
 
 ## Adding Agents
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ae90f1f7-57c9-42f1-9253-f0b3df1515f1" />
+<img width="80%" height="80%" alt="image" src="https://github.com/user-attachments/assets/ae90f1f7-57c9-42f1-9253-f0b3df1515f1" />
 
 
 Navigate to:  
@@ -123,7 +123,7 @@ Example Agents:
 ---
 
 ## Adding End Users
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/730b5172-c7dd-45da-99f7-18634f171c11" />
+<img width="80%" height="80%" alt="image" src="https://github.com/user-attachments/assets/730b5172-c7dd-45da-99f7-18634f171c11" />
 
 Navigate to:  
 **Agent Panel → Users → Add New**
@@ -136,7 +136,7 @@ Example Users:
 ---
 
 ## SLA Configuration
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a97446d5-0353-4e82-9327-68495437451a" />
+<img width="80%" height="80%" alt="image" src="https://github.com/user-attachments/assets/a97446d5-0353-4e82-9327-68495437451a" />
 
 Navigate to:  
 **Admin Panel → Manage → SLA**
@@ -150,7 +150,7 @@ Example SLAs:
 ---
 
 ## Creating Help Topics
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8fcbf217-fc67-4d0b-8415-2f9bb0b9dd85" />
+<img width="80%" height="80%" alt="image" src="https://github.com/user-attachments/assets/8fcbf217-fc67-4d0b-8415-2f9bb0b9dd85" />
 
 
 Navigate to:  
