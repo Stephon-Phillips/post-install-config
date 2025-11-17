@@ -23,6 +23,12 @@ This walkthrough covers the essential configuration steps that can be performed 
 
 
 ## Accessing osTicket
+<table>
+  <tr>
+    <td><img width="1920" height="1080" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/9ed0c2ca-a014-4e8b-bfca-1e66466186d4"" /></td>
+    <td><img width="1920" height="1080" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/49d88795-111a-416b-819c-381c0ae960dc" /></td>
+  </tr>
+</table>
 
 **Admin or Analyst Login:**  
 `http://localhost/osTicket/scp/login.php`
@@ -35,7 +41,12 @@ These two URLs provide access to the administrative tools and public ticket subm
 ---
 
 ## System Panels Overview
-
+<table>
+  <tr>
+    <td><img width="1920" height="1080" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/ded24968-f764-4ce2-994f-d2e01a0bac0f" /></td>
+    <td><img width="1920" height="1080" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/d54f9eae-740c-42c8-8991-ea0cce2e24b7" /></td>
+  </tr>
+</table>
 osTicket has two main panels:
 
 - **Agent Panel**: Used for managing and responding to tickets.  
