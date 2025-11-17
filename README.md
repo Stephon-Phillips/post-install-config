@@ -1,1 +1,1 @@
-# post-install-config
+# osTicket Post-Installation Walkthrough
