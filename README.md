@@ -4,8 +4,6 @@
 
 This walkthrough covers the essential configuration steps that can be performed after installing osTicket. It's a simple guide for the steps of accessing the system, setting up user roles, configuring departments, creating help topics, and preparing the helpdesk for real use.
 
-
-https://youtu.be/JLm1Y4ybWFw
 - ### [YouTube: Walkthrough steps of OSticket](https://youtu.be/JLm1Y4ybWFw)
 ---
 
